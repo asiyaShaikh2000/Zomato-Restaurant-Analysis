@@ -28,35 +28,21 @@ This project delivers a data-driven analysis designed to support Zomato’s stra
 - Unique Cuisines: 1,825
 
 ## Zomato Data Analysis Project Assets
-
-📊 **Insights Deck – Zomato_Insights_Presentation.pptx**
-A comprehensive slide deck presenting key findings, trends, and business recommendations derived from the data.
-
-📸 **Dashboard Snapshot – Zomato_Dashboard_View.jpg**
-A high-resolution image showcasing the main interactive dashboard, highlighting core metrics and visualizations.
-
-📈 **Interactive Analytics Workbook – Zomato_Analytics_Dashboard.xlsx**
-An Excel file featuring raw data, pivot tables, and a fully interactive dashboard for deep-dive exploration.
-
-📄 **Research & Methodology Report – Zomato_Methodology_Report.docx**
-A well-documented report detailing the approach, tools used, data preparation steps, and actionable insights.
+- Insights Deck – Zomato_Insights_Presentation.pptx
+Summarizes key findings, trends, and business recommendations.
+- Dashboard Snapshot – Zomato_Dashboard_View.jpg
+Visual overview of the interactive dashboard with core metrics.
+- Interactive Workbook – Zomato_Analytics_Dashboard.xlsx
+Contains raw data, pivot tables, and filters for detailed analysis.
+- Methodology Report – Zomato_Methodology_Report.docx
+Details the analytical approach, tools used, and key insights.
 
 ## Summary of Insights
-🌍 **Top Markets for Expansion**
-Qatar, Sri Lanka, Singapore, and Canada emerge as strategic markets with strong ratings and relatively lower competition—ideal for Zomato's global growth.
-
-⭐ **High-Rated Countries**
-Countries like Philippines, Indonesia, Turkey, and New Zealand exhibit the highest average customer satisfaction scores, reflecting strong local dining experiences.
-
-🍽️ **Cuisine Preferences**
-American, Japanese, BBQ, and Seafood cuisines consistently rank high in both popularity and customer ratings, making them valuable for menu optimization.
-
-🛎️ **Service Features That Matter**
-Restaurants offering table booking and delivery options tend to receive significantly better ratings, indicating the importance of convenience in customer satisfaction.
-
-💰 **Cost Dynamics**
-India is the most budget-friendly market, while Singapore records the highest average cost for two, suggesting opportunities for both premium and value positioning.
-
+- Top Markets: Qatar, Sri Lanka, Singapore, and Canada show strong ratings and low competition—ideal for expansion.
+- High-Rated Countries: Philippines, Indonesia, Turkey, and New Zealand lead in customer satisfaction.
+- Popular Cuisines: American, Japanese, BBQ, and Seafood are consistently well-rated.
+- Service Impact: Table booking and delivery correlate with higher customer ratings.
+- Cost Insight: India offers the most affordable options; Singapore has the highest average cost.
 
 
  ## How to Use
