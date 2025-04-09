@@ -28,13 +28,17 @@ This project delivers a data-driven analysis designed to support Zomato’s stra
 - Unique Cuisines: 1,825
 
 ## Zomato Data Analysis Project Assets
-- **Insights Deck** – 'Zomato_Insights_Presentation.pptx' -
+- **Insights Deck** – `Zomato_Insights_Presentation.pptx`
+  
   Summarizes key findings, trends, and business recommendations.
-- **Dashboard Snapshot** – 'Zomato_Dashboard_View.jpg' -
+- **Dashboard Snapshot** – `Zomato_Dashboard_View.jpg`
+  
 Visual overview of the interactive dashboard with core metrics.
-- **Interactive Workbook** – 'Zomato_Analytics_Dashboard.xlsx' -
+- **Interactive Workbook** – `Zomato_Analytics_Dashboard.xlsx`
+    
 Contains raw data, pivot tables, and filters for detailed analysis.
-- **Methodology Report** – 'Zomato_Methodology_Report.docx' -
+- **Methodology Report** – `Zomato_Methodology_Report.docx`
+  
 Details the analytical approach, tools used, and key insights.
 
 ## Summary of Insights
