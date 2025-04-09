@@ -42,11 +42,11 @@ This project delivers a data-driven analysis designed to support Zomato’s stra
   Details the analytical approach, tools used, and key insights.
 
 ## Summary of Insights
-- **Top Markets**: Qatar, Sri Lanka, Singapore, and Canada show strong ratings and low competition—ideal for expansion.
+- **Top Markets**: **Qatar**, **Sri Lanka**, **Singapore**,  and **Canada** show strong ratings and low competition—ideal for expansion.
 - **High-Rated Countries**: Philippines, Indonesia, Turkey, and New Zealand lead in customer satisfaction.
 - **Popular Cuisines**: American, Japanese, BBQ, and Seafood are consistently well-rated.
-- **Service Impact**: Table booking and delivery correlate with higher customer ratings.
-- **Cost Insight**: India offers the most affordable options; Singapore has the highest average cost.
+- **Service Impact**: **Table booking** and **online delivery** correlate with higher customer ratings.
+- **Cost Insight**: India offers the most **affordable** options; Singapore has the highest average cost.
 
 
  ## How to Use
