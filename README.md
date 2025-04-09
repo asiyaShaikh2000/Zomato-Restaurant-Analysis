@@ -13,10 +13,10 @@ This project delivers a data-driven analysis designed to support Zomato’s stra
 
 **Focus will be on using data-driven insights to understand:**
 
-**Customer Preferences:** What types of food and cuisines are most sought after by consumers?
-**Market Gaps:** Which regions have high demand but fewer restaurant options?
-**Data-Driven Decisions:** In the restaurant industry, making decisions based on data is crucial. By understanding patterns in customer behavior, competition, and market trends, Zomato can strategically place new restaurants where they will succeed.
-**Maximizing ROI:** Identifying the right location, cuisine type, and restaurant concept helps Zomato maximize returns on investment and minimize risk. The success of a restaurant often depends on its ability to match the right type of food with the right customers in the right location.
+- **Customer Preferences:** What types of food and cuisines are most sought after by consumers?
+- **Market Gaps:** Which regions have high demand but fewer restaurant options?
+- **Data-Driven Decisions:** In the restaurant industry, making decisions based on data is crucial. By understanding patterns in customer behavior, competition, and market trends, Zomato can strategically place new restaurants where they will succeed.
+- **Maximizing ROI:** Identifying the right location, cuisine type, and restaurant concept helps Zomato maximize returns on investment and minimize risk. The success of a restaurant often depends on its ability to match the right type of food with the right customers in the right location.
 
 ## Dataset Summary
 
@@ -64,13 +64,13 @@ India is the most budget-friendly market, while Singapore records the highest av
  
 To explore the full analysis and recommendations:
 
-**Start with the Presentation**
+- **Start with the Presentation**
 Open the Zomato_Insights_Presentation.pptx for a high-level overview of key findings, visual insights, and strategic recommendations.
 
-**Dive into the Dashboard**
+- **Dive into the Dashboard**
 Launch the Zomato_Analytics_Dashboard.xlsx to explore the interactive dashboard. Use filters to view data by year and country.
 
-**Explore Restaurant Trends**
+- **Explore Restaurant Trends**
 Utilize the slicers to interact with metrics such as cuisine types, ratings, cost, and availability, and gain deeper insights into restaurant performance across different regions.
 
 ## Contact
