@@ -6,7 +6,7 @@ Analyze Zomato restaurant data to determine the best locations for expansion, em
 
 This project delivers a data-driven analysis designed to support Zomato’s strategic expansion into global markets. By leveraging key metrics such as customer preferences, restaurant ratings, average pricing, and service features, the analysis highlights high-potential regions for growth and identifies areas for operational improvement. The insights aim to empower data-backed decision-making for market entry, investment prioritization, and customer experience enhancement.
 
-![Zomato Dashboard](https://raw.githubusercontent.com/asiyaShaikh2000/Zomato-Restaurant-Analysis/refs/heads/main/Dashboard.jpg)
+![Zomato Dashboard](https://raw.githubusercontent.com/asiyaShaikh2000/Zomato-Restaurant-Analysis/refs/heads/main/Dashboard_image.jpg)
 
 ## Key Objectives
 
