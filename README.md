@@ -66,4 +66,4 @@ Utilize the slicers to interact with metrics such as cuisine types, ratings, cos
 
 **Asiya Shaikh**  
 📧 shaikhasiya2000@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/asiya-shaikh-92243a215)
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/shaikhasiya2000)
