@@ -62,8 +62,11 @@ Launch the Zomato_Analytics_Dashboard.xlsx to explore the interactive dashboard.
 - **Explore Restaurant Trends**
 Utilize the slicers to interact with metrics such as cuisine types, ratings, cost, and availability, and gain deeper insights into restaurant performance across different regions.
 
-## Contact
 
-**Asiya Shaikh**  
-📧 shaikhasiya2000@gmail.com  
-🔗 [LinkedIn Profile](http://www.linkedin.com/in/shaikhasiya2000)
+## 📬 Contact
+
+I’d love to connect!  
+
+- 💼 LinkedIn: [Asiya Shaikh](www.linkedin.com/in/shaikhasiya2000)  
+- 📧 Email: shaikhasiya2000@gmail.com
+- 💻 GitHub: [asiyaShaikh2000](https://github.com/asiyaShaikh2000)
